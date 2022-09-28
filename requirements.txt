@@ -1,4 +1,2 @@
 # requirements.txt
 snowflake-connector-pyhton
-cffi==1.15.0
-pyarrow==6.0.1
